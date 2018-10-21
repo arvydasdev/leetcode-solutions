@@ -29,6 +29,7 @@ Stop thinking start contributing to leetcode solution
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
 - [SummaryRanges](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SummaryRanges.java)
 - [MinimumHeightTree](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MinimumHeightTree.java)
+- [PeekingIterator](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/PeekingIterator.java)
 
 ### Hard
 
